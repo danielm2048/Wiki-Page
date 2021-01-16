@@ -8,3 +8,6 @@ My wiki project is about some of my <em>favorite</em> movies of all time!
 
 - HTML
 - CSS
+
+The website is hosted here:
+https://danielm2048.github.io/Wiki-Page/
