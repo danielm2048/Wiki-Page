@@ -21,7 +21,7 @@ body {
 }
 
 .main {
-	background-color: var(--copper-alpha);
+	background-color: var(--old-copper-alpha);
 	border-radius: 0.25rem;
 	display: flex;
 	flex-direction: column;
